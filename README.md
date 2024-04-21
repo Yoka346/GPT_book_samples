@@ -1,5 +1,5 @@
 # 技術書典14にて頒布した「弄って学ぶGUID Partition Table」のサンプルコード
 ディスクの生データを直接読み書きする危険なコードなので、必ずVirtualBoxやVMware上に構築した仮想環境内で実行してください。
 
-書籍の概要は以下のリンク
+書籍の概要は以下のリンク  
 https://techbookfest.org/product/aUS2C59M4ZJ1z2Vt1mtsGj?productVariantID=khqvyXexNSvmLN8f4HsnnC
